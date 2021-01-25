@@ -9,7 +9,6 @@
 - [Client Drivers (unofficial)](#client-drivers-unofficial)
 - [IDE and editors support](#ide-and-editors-support)
 - [Open source projects using Grakn](#open-source-projects-using-grakn)
-- [Contribute](#contribute)
 
 
 ## Client Drivers (official)
@@ -38,8 +37,4 @@ List of officially supported drivers to connect with Grakn Server.
 - [`Source++`](https://github.com/sourceplusplus/Assistant) - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 - [`Rasa`](https://github.com/RasaHQ/rasa) - Open-source machine learning framework to automate text-and voice-based conversations.
 
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
