@@ -23,6 +23,7 @@ List of officially supported drivers to connect with Grakn Server.
 ## Client Drivers (unofficial)
 - [`client-elixir`](https://github.com/taxfix/grakn_elixir)
 - [`Grakn.Net`](https://github.com/WalternativE/Grakn.Net)
+- [`GraknClient.jl`](https://github.com/Humans-of-Julia/GraknClient.jl)
 
 
 ## IDE and editors support
