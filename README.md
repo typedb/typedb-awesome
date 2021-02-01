@@ -36,5 +36,4 @@ List of officially supported drivers to connect with Grakn Server.
 ## Open source projects using Grakn
 - [`Source++`](https://github.com/sourceplusplus/Assistant) - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 - [`Rasa`](https://github.com/RasaHQ/rasa) - Open-source machine learning framework to automate text-and voice-based conversations.
-
-
+- [`Grakn Mythos`](https://github.com/BFergerson/grakn-mythos) - Grakn-powered application for creating and sharing knowledge graphs.
