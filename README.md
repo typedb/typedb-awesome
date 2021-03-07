@@ -2,6 +2,7 @@
 
 > A curated list of awesome Grakn resources.
 
+Grakn is a database; one that empowers complex systems to be more intelligent through logic, reasoning, and knowledge engineering.
 
 ## Contents
 
@@ -9,6 +10,9 @@
 - [Client Drivers (unofficial)](#client-drivers-unofficial)
 - [IDE and editors support](#ide-and-editors-support)
 - [Open source projects using Grakn](#open-source-projects-using-grakn)
+- [Conferences](#conferences)
+- [Documentation](#documentation)
+- [Community](#community)
 
 
 ## Client Drivers (official)
@@ -37,3 +41,20 @@ List of officially supported drivers to connect with Grakn Server.
 - [`Source++`](https://github.com/sourceplusplus/Assistant) - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 - [`Rasa`](https://github.com/RasaHQ/rasa) - Open-source machine learning framework to automate text-and voice-based conversations.
 - [`Grakn Mythos`](https://github.com/BFergerson/grakn-mythos) - Grakn-powered application for creating and sharing knowledge graphs.
+
+## Conferences
+- [`Grakn Cosmos`](https://grakncosmos.com/)
+- [`Grakn Orbit`](https://community.grakn.ai/grakn-orbit-2021)
+
+## Documentation
+- [`Documentation for mainline version`](https://docs.grakn.ai/)
+- [`Documentation for alpha version`](https://https://dev.docs.grakn.ai/)
+
+## Community
+- [`Community Hub`](https://grakn.ai/community)
+- [`Discuss`](https://discuss.grakn.ai/)
+- [`Discord`](https://grakn.ai/discord)
+- [`Stack Overflow`](https://stackoverflow.com/questions/tagged/grakn)
+- [`YouTube`](https://www.youtube.com/channel/UCtZKw0RFof3x23KqGtW3yDA)
+- [`Blog`](https://blog.grakn.ai/)
+- [`LinkedIn`](https://www.linkedin.com/company/graknlabs/mycompany/)
