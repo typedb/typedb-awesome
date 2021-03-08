@@ -12,6 +12,8 @@
 - [Open source projects using Grakn](#open-source-projects-using-grakn)
 - [Conferences](#conferences)
 - [Documentation](#documentation)
+- [Blogs](#blogs)
+- [Videos](#videos)
 - [Community](#community)
 
 
@@ -49,6 +51,22 @@ List of officially supported drivers to connect with Grakn Server.
 ## Documentation
 - [`Documentation for mainline version`](https://docs.grakn.ai/)
 - [`Documentation for alpha version`](https://https://dev.docs.grakn.ai/)
+
+## Blogs
+- [A Day described in Grakn](https://towardsdatascience.com/a-day-described-in-grakn-part-i-46bb7e3cd82a)
+- [Introducing GraMi — a Data Migration Tool for Grakn](https://towardsdatascience.com/introducing-grami-a-data-migration-tool-for-grakn-d4051582f867)
+- [Comparing Graql to SQL — Part 1/2](https://dzone.com/articles/comparing-graql-to-sql-part-12)
+- [Comparing Grakn to Semantic Web Technologies — Part 1/3](https://towardsdatascience.com/comparing-grakn-to-semantic-web-technologies-part-1-3-3558c447214a)
+- [Comparing Grakn to Semantic Web Technologies — Part 2/3](https://towardsdatascience.com/comparing-grakn-to-semantic-web-technologies-part-2-3-4602b56969fc)
+- [Comparing Grakn to Semantic Web Technologies — Part 3/3](https://towardsdatascience.com/comparing-grakn-to-semantic-web-technologies-part-3-3-cb2fb233fbd5)
+- [Neo4j vs GRAKN Part I: Basics](https://towardsdatascience.com/neo4j-vs-grakn-part-i-basics-f2fe3511ce88)
+- [Neo4j vs GRAKN Part II: Semantics](https://towardsdatascience.com/neo4j-vs-grakn-part-ii-semantics-11a0847ae7a2)
+
+## Videos
+- [Comparing SQL to Graql](https://www.youtube.com/watch?v=rNCvAGdiw1I&list=PLtEF8_xCPklbGuaOANOJHZ8cvbo65LN2I)
+- [Comparing Semantic Web Technologies To Grakn | RDF, RDFS, OWL, SPARQL SHACL Grakn and Graql](https://www.youtube.com/watch?v=s6xGQS84qKM)
+- [Comparing Property Graph Databases to Grakn](https://www.youtube.com/watch?v=uxZovj2ekIQ)
+- [How Can We Complete a Knowledge Graph?](https://www.youtube.com/watch?v=nYDi1_UaFtU&list=PLtEF8_xCPklbGuaOANOJHZ8cvbo65LN2I)
 
 ## Community
 - [`Community Hub`](https://grakn.ai/community)
