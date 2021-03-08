@@ -2,7 +2,7 @@
 
 > A curated list of awesome Grakn resources.
 
-Grakn is a database; one that empowers complex systems to be more intelligent through logic, reasoning, and knowledge engineering.
+[Grakn](https://grakn.ai) is a database; one that empowers complex systems to be more intelligent through logic, reasoning, and knowledge engineering.
 
 ## Contents
 
