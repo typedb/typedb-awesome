@@ -12,7 +12,7 @@
 - [Open source projects using Grakn](#open-source-projects-using-grakn)
 - [Conferences](#conferences)
 - [Documentation](#documentation)
-- [Blogs](#blogs)
+- [Blog posts](#blog-posts)
 - [Videos](#videos)
 - [Community](#community)
 
@@ -57,7 +57,7 @@ List of officially supported drivers to connect with Grakn Server.
 - [`Documentation for mainline version`](https://docs.grakn.ai/)
 - [`Documentation for alpha version`](https://https://dev.docs.grakn.ai/)
 
-## Blogs
+## Blog posts
 
 - [A Day described in Grakn](https://towardsdatascience.com/a-day-described-in-grakn-part-i-46bb7e3cd82a)
 - [Introducing GraMi — a Data Migration Tool for Grakn](https://towardsdatascience.com/introducing-grami-a-data-migration-tool-for-grakn-d4051582f867)
