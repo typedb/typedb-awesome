@@ -59,7 +59,7 @@ List of officially supported drivers to connect with Grakn Server.
 
 ## Blog posts
 
-- [A Day described in Grakn](https://towardsdatascience.com/a-day-described-in-grakn-part-i-46bb7e3cd82a)
+- [A day described in Grakn](https://towardsdatascience.com/a-day-described-in-grakn-part-i-46bb7e3cd82a)
 - [Introducing GraMi — a Data Migration Tool for Grakn](https://towardsdatascience.com/introducing-grami-a-data-migration-tool-for-grakn-d4051582f867)
 - [Comparing Graql to SQL — Part 1/2](https://dzone.com/articles/comparing-graql-to-sql-part-12)
 - [Comparing Grakn to Semantic Web Technologies — Part 1/3](https://towardsdatascience.com/comparing-grakn-to-semantic-web-technologies-part-1-3-3558c447214a)
