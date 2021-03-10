@@ -27,12 +27,14 @@ List of officially supported drivers to connect with Grakn Server.
 
 
 ## Client Drivers (unofficial)
+
 - [`client-elixir`](https://github.com/taxfix/grakn_elixir)
 - [`Grakn.Net`](https://github.com/WalternativE/Grakn.Net)
 - [`GraknClient.jl`](https://github.com/Humans-of-Julia/GraknClient.jl)
 
 
 ## IDE and editors support
+
 - [`emacs-graql-mode`](https://github.com/creatorrr/emacs-graql-mode) - Major mode that provides syntax highlighting and basic completion for Graql.
 - [`graql-language-vscode`](https://github.com/idealley/graql-language-vscode) - Graql language for Visual Studio Code.
 - [`JetBrains-Graql-Plugin`](https://github.com/BFergerson/JetBrains-Graql-Plugin) - JetBrains support for the Graql language.
@@ -40,19 +42,23 @@ List of officially supported drivers to connect with Grakn Server.
 
 
 ## Open source projects using Grakn
+
 - [`Source++`](https://github.com/sourceplusplus/Assistant) - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 - [`Rasa`](https://github.com/RasaHQ/rasa) - Open-source machine learning framework to automate text-and voice-based conversations.
 - [`Grakn Mythos`](https://github.com/BFergerson/grakn-mythos) - Grakn-powered application for creating and sharing knowledge graphs.
 
 ## Conferences
+
 - [`Grakn Cosmos`](https://grakncosmos.com/)
 - [`Grakn Orbit`](https://community.grakn.ai/grakn-orbit-2021)
 
 ## Documentation
+
 - [`Documentation for mainline version`](https://docs.grakn.ai/)
 - [`Documentation for alpha version`](https://https://dev.docs.grakn.ai/)
 
 ## Blogs
+
 - [A Day described in Grakn](https://towardsdatascience.com/a-day-described-in-grakn-part-i-46bb7e3cd82a)
 - [Introducing GraMi — a Data Migration Tool for Grakn](https://towardsdatascience.com/introducing-grami-a-data-migration-tool-for-grakn-d4051582f867)
 - [Comparing Graql to SQL — Part 1/2](https://dzone.com/articles/comparing-graql-to-sql-part-12)
@@ -63,12 +69,14 @@ List of officially supported drivers to connect with Grakn Server.
 - [Neo4j vs GRAKN Part II: Semantics](https://towardsdatascience.com/neo4j-vs-grakn-part-ii-semantics-11a0847ae7a2)
 
 ## Videos
+
 - [Comparing SQL to Graql](https://www.youtube.com/watch?v=rNCvAGdiw1I&list=PLtEF8_xCPklbGuaOANOJHZ8cvbo65LN2I)
 - [Comparing Semantic Web Technologies To Grakn | RDF, RDFS, OWL, SPARQL SHACL Grakn and Graql](https://www.youtube.com/watch?v=s6xGQS84qKM)
 - [Comparing Property Graph Databases to Grakn](https://www.youtube.com/watch?v=uxZovj2ekIQ)
 - [How Can We Complete a Knowledge Graph?](https://www.youtube.com/watch?v=nYDi1_UaFtU&list=PLtEF8_xCPklbGuaOANOJHZ8cvbo65LN2I)
 
 ## Community
+
 - [`Community Hub`](https://grakn.ai/community)
 - [`Discuss`](https://discuss.grakn.ai/)
 - [`Discord`](https://grakn.ai/discord)
