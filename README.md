@@ -12,6 +12,7 @@
 - [Open source projects using Grakn](#open-source-projects-using-grakn)
 - [Conferences](#conferences)
 - [Documentation](#documentation)
+- [Example projects](#example-projects)
 - [Blog posts](#blog-posts)
 - [Videos](#videos)
 - [Community](#community)
@@ -56,6 +57,11 @@ List of officially supported drivers to connect with Grakn Server.
 
 - [`Documentation for mainline version`](https://docs.grakn.ai/)
 - [`Documentation for alpha version`](https://https://dev.docs.grakn.ai/)
+
+## Example projects
+
+- [`Grakn Examples`](https://github.com/graknlabs/examples)
+- [`classbasics/graknDemo`](https://github.com/classbasics/graknDemo)
 
 ## Blog posts
 
