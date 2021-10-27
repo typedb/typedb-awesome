@@ -27,7 +27,7 @@ List of officially supported drivers to connect with Grakn Server.
 - [`client-python`](http://github.com/graknlabs/client-python)
 
 
-## Client Drivers (unofficial)
+## Client Drivers (community)
 
 - [`client-elixir`](https://github.com/taxfix/grakn_elixir)
 - [`Grakn.Net`](https://github.com/WalternativE/Grakn.Net)
