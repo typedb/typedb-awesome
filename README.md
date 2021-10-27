@@ -7,7 +7,7 @@
 ## Contents
 
 - [Client Drivers (official)](#client-drivers-official)
-- [Client Drivers (unofficial)](#client-drivers-unofficial)
+- [Client Drivers (community)](#client-drivers-community)
 - [IDE and editors support](#ide-and-editors-support)
 - [Open source projects using TypeDB](#open-source-projects-using-typedb)
 - [Conferences](#conferences)
