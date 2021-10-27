@@ -22,9 +22,9 @@
 
 List of officially supported drivers to connect with Grakn Server.
 
-- [`client-java`](http://github.com/graknlabs/client-java)
-- [`client-nodejs`](http://github.com/graknlabs/client-nodejs)
-- [`client-python`](http://github.com/graknlabs/client-python)
+- [`client-java`](https://github.com/vaticle/typedb-client-java)
+- [`client-nodejs`](https://github.com/vaticle/typedb-client-nodejs)
+- [`client-python`](https://github.com/vaticle/typedb-client-python)
 
 
 ## Client Drivers (community)
@@ -36,10 +36,10 @@ List of officially supported drivers to connect with Grakn Server.
 
 ## IDE and editors support
 
-- [`emacs-graql-mode`](https://github.com/creatorrr/emacs-graql-mode) - Major mode that provides syntax highlighting and basic completion for Graql.
-- [`graql-language-vscode`](https://github.com/idealley/graql-language-vscode) - Graql language for Visual Studio Code.
-- [`JetBrains-Graql-Plugin`](https://github.com/BFergerson/JetBrains-Graql-Plugin) - JetBrains support for the Graql language.
-- [`language-graql`](https://github.com/ShishkinDmitriy/language-graql) - Atom's syntax highlighting for Graql.
+- [`typeql-plugin-emacs`](https://github.com/typedb-osi/typeql-plugin-emacs) - Major mode that provides syntax highlighting and basic completion for TypeQL.
+- [`typeql-plugin-vscode`](https://github.com/typedb-osi/typeql-plugin-vscode) - Visual Studio Code support for TypeQL.
+- [`typeql-plugin-jetbrains`](https://github.com/typedb-osi/typeql-plugin-jetbrains) - JetBrains support for TypeQL.
+- [`typeql-plugin-atom`](https://github.com/typedb-osi/typeql-plugin-atom) - Atom's syntax highlighting for TypeQL.
 
 
 ## Open source projects using TypeDB
