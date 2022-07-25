@@ -19,8 +19,10 @@
 
 ## Open source projects using TypeDB
 
-- [`TypeDB OSI - Cyber Threat Intelligence`](https://github.com/typedb-osi/typedb-cti) - CTI is an open source threat intelligence platform enabling threat intel professionals to bring together their disparate CTI information into one database and find 
-new insights about cyber threats.
+- [`KGLIB - Machine Learning with TypeDB`](https://github.com/vaticle/kglib) - KGLIB provides tools to enable machine learning with TypeDB.
+- [`TypeDB Studio - IDE for TypeDB`](https://github.com/vaticle/typedb-studio) - TypeDB Studio is an Integrated Development Environment for TypeDB for performing knowledge engineering.
+- [`TypeDB OSI - Cyber Threat Intelligence`](https://github.com/typedb-osi/typedb-cti) - TypeDB CTI is an open source threat intelligence platform enabling threat intel professionals to bring together their disparate CTI information into one database 
+and find new insights about cyber threats.
 - [`TypeDB OSI - Biomedical Knowledge Graph`](https://github.com/typedb-osi/typedb-bio) - TypeDB Bio is an open source biomedical knowledge graph providing biomedical researchers an intuitive way to query interconnected and heterogeneous biomedical 
 data in one single place.
 - [`TypeDB Loader`](https://github.com/typedb-osi/typedb-loader) - An open-source data migrator for loading data into TypeDB at scale.
