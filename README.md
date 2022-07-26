@@ -44,8 +44,8 @@ data in one single place.
 
 - [`TypeDB Examples - Catalogue of Life`](https://github.com/vaticle/typedb-examples/tree/master/catalogue_of_life) - Catalogue of Life is a database of over 4.5 million currently known taxa in biology, compiled from over a hundred different sources. 
 TypeDB Loader loads this enormous dataset in so we can elegantly query it with rule-based inference TypeQL queries.
-- [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-examples/tree/master/xcom) - Explore data about the XCOM 2 technology tree using TypeDB and TypeQL.
-- [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-examples/tree/master/github) - GitHub is a vast pool of heavily interconnected data. See this example that integrates TypeDB and TypeQL into a GUI.
+- [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-examples/tree/master/xcom) - XCOM 2 is a vast sci-fi strategy game where humanity must respond to a growing alien threat. Explore data about the XCOM 2 technology tree using TypeDB and TypeQL.
+- [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-examples/tree/master/github) - GitHub, the site you're on right now, is a vast pool of heavily interconnected data. See this example that integrates TypeDB and TypeQL into a GUI.
 
 ## Blog posts
 
@@ -76,9 +76,10 @@ TypeDB Loader loads this enormous dataset in so we can elegantly query it with r
 
 List of officially supported drivers to connect with TypeDB Server.
 
-- [`client-java`](https://github.com/vaticle/typedb-client-java)
-- [`client-nodejs`](https://github.com/vaticle/typedb-client-nodejs)
-- [`client-python`](https://github.com/vaticle/typedb-client-python)
+- [Client Rust](https://github.com/vaticle/typedb-client-rust)
+- [Client Java](https://github.com/vaticle/typedb-client-java)
+- [Client Node.js](https://github.com/vaticle/typedb-client-nodejs)
+- [Client Python](https://github.com/vaticle/typedb-client-python)
 
 
 ## Client Drivers (community)
@@ -94,9 +95,9 @@ List of officially supported drivers to connect with TypeDB Server.
 
 ## Community
 
-- [`Discuss on our Forum`](https://forum.vaticle.com)
+- [`Discussion Forum`](https://forum.vaticle.com)
 - [`Discord`](https://vaticle.com/discord)
-- [`Stack Overflow`](https://stackoverflow.com/questions/tagged/typedb)
+- [`Stack Overflow`](https://stackoverflow.com/questions/tagged/vaticle-typedb%20vaticle-typeql?sort=Newest&edited=true)
 - [`YouTube`](https://www.youtube.com/c/vaticle)
 - [`Blog`](https://blog.vaticle.com)
 - [`LinkedIn`](https://www.linkedin.com/company/vaticle)
