@@ -44,7 +44,7 @@ data in one single place.
 
 - [`TypeDB Examples - Catalogue of Life`](https://github.com/vaticle/typedb-examples/tree/master/catalogue_of_life) - Catalogue of Life is a database of over 4.5 million currently known taxa in biology, compiled from over a hundred different sources. 
 TypeDB Loader loads this enormous dataset in so we can elegantly query it with rule-based inference TypeQL queries.
-- [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-examples/tree/master/xcom) - XCOM 2 is a vast sci-fi strategy game where humanity must respond to a growing alien threat. Explore data about the XCOM 2 technology tree using TypeDB and TypeQL.
+- [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-examples/tree/master/xcom) - XCOM 2 is a massive sci-fi strategy game where humanity must respond to a growing alien threat. Explore data about the XCOM 2 technology tree using TypeDB and TypeQL.
 - [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-examples/tree/master/github) - GitHub, the site you're on right now, is a vast pool of heavily interconnected data. See this example that integrates TypeDB and TypeQL into a GUI.
 
 ## Blog posts
