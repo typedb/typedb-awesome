@@ -85,7 +85,9 @@ List of officially supported drivers to connect with TypeDB Server.
 ## Client Drivers (community)
 
 - [`TypeDBClient.jl`](https://github.com/Humans-of-Julia/TypeDBClient.jl)
-
+- [`Client C#`](https://github.com/typedb-osi/typedb-client-csharp)
+- [`Client Haskell`](https://github.com/typedb-osi/typedb-client-haskell)
+- [`Client Go`](https://github.com/taliesins/typedb-client-go)
 
 ## IDE and editors support
 
