@@ -79,9 +79,9 @@ data in one single place.
 
 ## IDE and editor support
 
-- [`Emacs`](https://github.com/typedb-osi/typeql-plugin-emacs) - Major mode that provides syntax highlighting and basic completion for TypeQL.
-- [`VSCode`](https://github.com/typedb-osi/typeql-plugin-vscode) - Visual Studio Code support for TypeQL.
-- [`JetBrains / IntelliJ`](https://github.com/typedb-osi/typeql-plugin-jetbrains) - JetBrains support for TypeQL.
+- [`Emacs - TypeQL Plugin`](https://github.com/typedb-osi/typeql-plugin-emacs)
+- [`Visual Studio Code - TypeQL Plugin`](https://github.com/typedb-osi/typeql-plugin-vscode)
+- [`JetBrains / IntelliJ - TypeQL Plugin`](https://github.com/typedb-osi/typeql-plugin-jetbrains)
 
 ## Community
 
