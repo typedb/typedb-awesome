@@ -25,13 +25,14 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 ## Open source projects using TypeDB
 
-- [`TypeDB-ML`](https://github.com/vaticle/typedb-ml) - TypeDB-ML provides tools to enable graph algorithms and machine learning with TypeDB.
 - [`TypeDB Studio - IDE for TypeDB`](https://github.com/vaticle/typedb-studio) - TypeDB Studio is an Integrated Development Environment for TypeDB for performing knowledge engineering.
+- [`Blitz-ORM`](https://github.com/Blitzapps/blitz-orm) - Blitz-ORM is an Object Relational Mapper written in TypeScript and compatible with TypeDB.
+- [`TypeDB-ML`](https://github.com/vaticle/typedb-ml) - TypeDB-ML provides tools to enable graph algorithms and machine learning with TypeDB.
+- [`TypeDB Loader`](https://github.com/typedb-osi/typedb-loader) - An open-source data migrator for loading data into TypeDB at scale.
 - [`TypeDB OSI - Cyber Threat Intelligence`](https://github.com/typedb-osi/typedb-cti) - TypeDB CTI is an open source threat intelligence platform enabling threat intel professionals to bring together their disparate CTI information into one database 
 and find new insights about cyber threats.
 - [`TypeDB OSI - Biomedical Knowledge Graph`](https://github.com/typedb-osi/typedb-bio) - TypeDB Bio is an open source biomedical knowledge graph providing biomedical researchers an intuitive way to query interconnected and heterogeneous biomedical 
 data in one single place.
-- [`TypeDB Loader`](https://github.com/typedb-osi/typedb-loader) - An open-source data migrator for loading data into TypeDB at scale.
 - [`Source++`](https://github.com/sourceplusplus/Assistant) - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 - [`Rasa`](https://github.com/RasaHQ/rasa) - Open-source machine learning framework to automate text-and voice-based conversations.
 
