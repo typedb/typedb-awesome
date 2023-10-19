@@ -21,7 +21,7 @@ TypeDB is a [polymorphic](https://typedb.com/features#polymorphic-queries) datab
 
 ## Open source projects using TypeDB
 
-- [`TypeDB-ML`](https://github.com/vaticle/kglib) - TypeDB-ML provides tools to enable graph algorithms and machine learning with TypeDB.
+- [`TypeDB-ML`](https://github.com/vaticle/typedb-ml) - TypeDB-ML provides tools to enable graph algorithms and machine learning with TypeDB.
 - [`TypeDB Studio - IDE for TypeDB`](https://github.com/vaticle/typedb-studio) - TypeDB Studio is an Integrated Development Environment for TypeDB for performing knowledge engineering.
 - [`TypeDB OSI - Cyber Threat Intelligence`](https://github.com/typedb-osi/typedb-cti) - TypeDB CTI is an open source threat intelligence platform enabling threat intel professionals to bring together their disparate CTI information into one database 
 and find new insights about cyber threats.
@@ -33,11 +33,11 @@ data in one single place.
 
 ## Conferences
 
-- [`Orbit`](https://www.youtube.com/playlist?list=PLtEF8_xCPklY3P5NLSQb1SyIYLhQssxfY)
+- [Orbit](https://www.youtube.com/playlist?list=PLtEF8_xCPklY3P5NLSQb1SyIYLhQssxfY)
 
 ## Documentation
 
-- [`TypeDB Documentation Portal`](https://typedb.com/docs)
+- [TypeDB Documentation Portal](https://typedb.com/docs)
 
 ## Example projects
 
@@ -66,17 +66,17 @@ data in one single place.
 
 ## Client Drivers (official)
 
-- [`TypeDB Drivers for Rust, Python, Java, Node.js and C`](https://github.com/vaticle/typedb-driver)
+- [`Rust, Python, Java, Node.js and C`](https://github.com/vaticle/typedb-driver)
 
 ## Client Drivers (community)
 
-- [`TypeDBClient.jl`](https://github.com/Humans-of-Julia/TypeDBClient.jl)
+- [`Julia`](https://github.com/Humans-of-Julia/TypeDBClient.jl)
 
 ## IDE and editor support
 
-- [`typeql-plugin-emacs`](https://github.com/typedb-osi/typeql-plugin-emacs) - Major mode that provides syntax highlighting and basic completion for TypeQL.
-- [`typeql-plugin-vscode`](https://github.com/typedb-osi/typeql-plugin-vscode) - Visual Studio Code support for TypeQL.
-- [`typeql-plugin-jetbrains`](https://github.com/typedb-osi/typeql-plugin-jetbrains) - JetBrains support for TypeQL.
+- [`Emacs`](https://github.com/typedb-osi/typeql-plugin-emacs) - Major mode that provides syntax highlighting and basic completion for TypeQL.
+- [`VSCode`](https://github.com/typedb-osi/typeql-plugin-vscode) - Visual Studio Code support for TypeQL.
+- [`JetBrains / IntelliJ`](https://github.com/typedb-osi/typeql-plugin-jetbrains) - JetBrains support for TypeQL.
 
 ## Community
 
