@@ -6,6 +6,10 @@ A curated list of TypeDB resources.
 
 TypeDB is a [polymorphic](https://typedb.com/features#polymorphic-queries) database with a [conceptual](https://typedb.com/features#conceptual-modeling) data model, a strong [subtyping](https://typedb.com/features#strong-type-system) system, a symbolic [reasoning](https://typedb.com/features#symbolic-reasoning) engine, and a beautiful and elegant [type-theoretic](https://typedb.com/features#modern-language) language TypeQL.
 
+## Contributing
+
+Want to contribute to the list? Let us know on [Discord](https://typedb.com/discord) and open a pull request!
+
 ## Contents
 
 - [Open source projects using TypeDB](#open-source-projects-using-typedb)
