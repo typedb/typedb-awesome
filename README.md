@@ -2,7 +2,7 @@
 
 # Awesome TypeDB [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome TypeDB resources.
+A curated list of TypeDB resources.
 
 TypeDB is a [polymorphic](https://typedb.com/features#polymorphic-queries) database with a [conceptual](https://typedb.com/features#conceptual-modeling) data model, a strong [subtyping](https://typedb.com/features#strong-type-system) system, a symbolic [reasoning](https://typedb.com/features#symbolic-reasoning) engine, and a beautiful and elegant [type-theoretic](https://typedb.com/features#modern-language) language TypeQL.
 
